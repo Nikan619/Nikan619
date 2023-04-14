@@ -23,7 +23,7 @@ I am a Full Stack Developer from Orange County, California.
 
 🔭 I am currently looking for a position as a Software Engineer.
 :atom: Looing to contribute to frontend and backend for building web applications.
-♟️In my free timem I enjoy playing chess. I have been playing since I was 8 years oldm and I accept any challenges! You can find me on chess.com---Username:Nikman123
+♟️In my free time, I enjoy playing chess. I have been playing since I was 8 years oldm and I accept any challenges! You can find me on chess.com---Username:Nikman123
 
 ---
 
