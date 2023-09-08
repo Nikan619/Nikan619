@@ -5,12 +5,7 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>                                                                                   
                    
-<div id="badges">
-  <a href="https://www.linkedin.com/in/nikan-javadzadeh">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- </div>
- 
+
  <img src="https://komarev.com/ghpvc/?username=Nikan619&style=flat-square&color=blue" alt=""/>
  <h1>
   hey there
@@ -23,7 +18,7 @@ I am a Full Stack Developer from Orange County, California.
 
 🔭 I am currently looking for a position as a Software Engineer.
 :atom: Looing to contribute to frontend and backend for building web applications.
-♟️In my free time, I enjoy playing chess. I have been playing since I was 8 years old, and I accept any challenges! You can find me on chess.com---Username:Nikman123
+
 
 ---
 
